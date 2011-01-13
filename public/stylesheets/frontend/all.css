@@ -1,0 +1,17 @@
+body {
+  background: #00a3cb;
+  height: auto; }
+  body #container {
+    width: 435px;
+    margin: 100px auto; }
+    body #container p {
+      color: white;
+      text-align: center; }
+    body #container a {
+      color: white;
+      text-decoration: none; }
+      body #container a:hover, body #container aactive {
+        color: #cccccc; }
+    body #container #coming_soon {
+      display: block;
+      overflow: auto; }
